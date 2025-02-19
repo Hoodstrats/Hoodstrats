@@ -1,9 +1,8 @@
 ## Yo 👋 Welcome to my Github. 
 #### I don't know what rabbit hole lead you here but stay a while...
----
-#### Some tools I use:
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
+---
 - 🔭 I’m currently working on:
   - Hunting bugs... Always hunting bugs.
 
