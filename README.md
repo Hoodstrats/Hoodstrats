@@ -11,10 +11,6 @@
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 ---
-##### If you find yourself using one my flawed tools or apps (Godspeed) consider supporting me at:
-![https://ko-fi.com/hoodstrats](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)
-
----
 - 🔭 I’m currently working on:
   - Hunting bugs... Always hunting bugs.
 
@@ -22,3 +18,6 @@
 - 📫 How to reach me:
   - [bsky](https://bsky.app/profile/hoodstrats.bsky.social)
   - [mastodon](https://mastodon.social/@hoodstrats)
+
+##### If you find yourself using one my flawed tools or apps (Godspeed) consider supporting me at:
+![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)[https://ko-fi.com/hoodstrats]
