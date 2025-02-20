@@ -15,14 +15,33 @@
 ---
 - 🔭 I’m currently working on:
   - Hunting bugs... Always hunting bugs.
+  - Finishing my Main project's side project's side project.
 
 
 - 📫 How to reach me:
   - [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/hoodstrats.bsky.social)
   - [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/hoodstrats)
   - [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/hoodstrats)
-  - [mastodon](https://mastodon.social/@hoodstrats)
+  - [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://hoodstrats.itch.io/)  
+  - [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.social/@hoodstrats)
   - and here ofcourse...
+
+- 🔧 Still under development but I'm working on a Patreon, as well as a Dev.to to publish my thoughts into the void.
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Hoodstrats/Hoodstrats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoodstrats&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Hoodstrats/Hoodstrats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hoodstrats&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+<a href="https://github.com/Hoodstrats/MHRise-NumberFantasy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hoodstrats&repo=MHRise-NumberFantasy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+<a href="https://github.com/Hoodstrats/SpotYoinkCLI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hoodstrats&repo=SpotYoinkCLI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
 
 <br>
 
@@ -32,5 +51,3 @@
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/hoodstrats)
 
 </center>
-
-###### Surely I'll link everything properly and finish this at some point...
