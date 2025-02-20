@@ -27,6 +27,7 @@
   - and here ofcourse...
 
 - 🔧 Still under development but I'm working on a Patreon, as well as a Dev.to to publish my thoughts into the void.
+  - [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/hoodstrats)
 
 ## &#x1f4c8; GitHub Stats
 
