@@ -1,7 +1,8 @@
 <div align="center">
-<img src = https://capsule-render.vercel.app/api?type=speech&height=150&color=gradient&text=HoodStrats&fontColor=FFFFFF&desc=The%20Code%20Landfill&section=header&descAlignY=70&stroke=000000&strokeWidth=1&descSize=30&animation=scalein&fontAlignY=45>
+<!--<img src = https://capsule-render.vercel.app/api?type=speech&height=150&color=gradient&text=HoodStrats&fontColor=FFFFFF&desc=The%20Code%20Landfill&section=header&descAlignY=70&stroke=000000&strokeWidth=1&descSize=30&animation=scalein&fontAlignY=45>-->
+<!---->
 
-  ##### I don't know what rabbit hole lead you here but please do check out some of my useless tools and mods.
+##### I don't know what rabbit hole lead you here but please do check out some of my useless tools and mods.
 </div>
 
 ---
@@ -23,18 +24,15 @@
 
 ---
 - 🔭 I’m currently working on:
-  - Hunting bugs... Always hunting bugs
   - Finishing my Main project's side project's side project (why are gui frameworks so clunky?)
   - Working on some Mod projects for "fun"
 <br>
-- 📫 How to reach me (like a lot of people I barely use any of these except Discord and Github):
+- 📫 How to reach me (I barely use anything else other than Discord):
 <div align="center">
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/hoodstrats.bsky.social)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/hoodstrats)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/hoodstrats)
-[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://hoodstrats.itch.io/)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.social/@hoodstrats)
+
 </div>
 
 - 🔧 Still under development but I'm working on a Patreon, as well as a Dev.to to publish my thoughts into the void.
@@ -45,13 +43,9 @@
 
 
 <h2 align="center"> &#x1f4c8; GitHub Stats </h2> 
-
+<div align="center">
 <a href="https://github.com/Hoodstrats/Hoodstrats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hoodstrats&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hoodstrats's GitHub Stats" />
 </a>
-<a href="https://github.com/Hoodstrats/MHRise-NumberFantasy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hoodstrats&repo=MHRise-NumberFantasy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
-<a href="https://github.com/Hoodstrats/SpotYoinkCLI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hoodstrats&repo=SpotYoinkCLI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
+<h6 align="center"> Working on building up this street cred 👆 </h3>
+</div>
